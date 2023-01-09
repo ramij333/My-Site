@@ -1,0 +1,157 @@
+a{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6F6;
+}
+
+body{
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+.btm-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px;
+}
+
+.bottom-container p {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    margin-top: 80px;
+    padding: 20px 0;
+}
+
+.btn {
+    background-color:  #11cdd4;
+    border: solid #337fed 0;
+    display: inline-block;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 17px;
+    padding: 15px 30px;
+    text-decoration: none;
+    font-style: 'montserrat', sans-serif;
+    margin-bottom: 100px;
+  }
+  
+  .btn:hover {
+    background:  #30e3cb;
+    text-decoration: none;
+  }
+
+.btn-div{
+    margin: 4% 0 4%;
+}
+
+.copy-right{
+    color: #EAF6F6;
+    margin: 2% auto;
+}
+
+.footer-link{
+   color: #11999E;
+   margin: 10px;
+   font-size: 1 rem;
+   text-decoration: none;
+}
+    
+h1{
+    margin: auto;
+    font-family: 'Sacramento', cursive;
+    font-size: 5.625rem;
+    margin-top: 50px auto 0;
+    color:  #66BFBF;
+    line-height: 2;
+}
+
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color:  #66BFBF;
+    font-weight: normal;
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+
+hr{
+    border-style: dotted none none;
+    border-color: #EAF6F6;
+    border-width: 8px;
+    width: 10%;
+    height: 0;
+    margin: 8% auto 8%;
+}
+
+.intro {
+    width: 50%;
+    margin: auto;
+}
+
+.middle-container{
+    margin-bottom: ;
+}
+
+p{
+    color: #40514E;
+    line-height: 2;
+}
+
+.contact-me p {
+    margin: 40px auto 60px;
+    width: 40%;
+}
+
+.profile{
+    margin-top: 5%;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+    margin-bottom: 10%;
+}
+
+.top-container{
+    background-color: #FFDDD2;
+    position: relative;
+    padding: 100px;
+    padding-bottom: 0;
+}
+
+
+.tp-cloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+
+.icn-lft{   
+    width: 25%;   
+    float: left;
+    margin-right: 30px;
+}
+
+.icn-rght{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
